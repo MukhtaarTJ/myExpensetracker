@@ -1,0 +1,19 @@
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: "Raleway", sans-serif;
+        background-color: rgb(238, 238, 238);
+      }
+      
+      .label {
+        font-size: 10px;
+      }
+      i {
+        font-size: 80px;
+        color: rgb(23, 162, 184);
+        margin-top: 60px !important;
+      }
+      .mystyle {
+        color: greenyellow;
+      }
